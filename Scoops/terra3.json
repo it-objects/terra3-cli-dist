@@ -1,15 +1,15 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/it-objects/terra3-cli/releases/download/v0.0.5/terra3_Windows_amd64.zip",
+            "url": "https://github.com/it-objects/terra3-cli/releases/download/v0.0.6/terra3_Windows_amd64.zip",
             "bin": [
                 "terra3.exe"
             ],
-            "hash": "017602ec23edfb7dd0ba693f28236386c2f9b5f71c7e5adcd428dafa729d7071"
+            "hash": "e0e5ad267098991fd565fe095da9fb548be3a235100174106069335cbc78bea7"
         }
     },
     "homepage": "https://terra3.io/",
     "license": "Apache-2.0",
-    "description": "A CLI to manage AWS deployments based on the Terr3 stack!"
+    "description": "A CLI to manage AWS deployments based on the Terra3 stack!"
 }
