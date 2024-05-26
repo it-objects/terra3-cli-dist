@@ -1,12 +1,12 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/it-objects/terra3-cli/releases/download/v0.0.6/terra3_Windows_amd64.zip",
+            "url": "https://github.com/it-objects/terra3-cli/releases/download/v0.0.7/terra3_Windows_amd64.zip",
             "bin": [
                 "terra3.exe"
             ],
-            "hash": "e0e5ad267098991fd565fe095da9fb548be3a235100174106069335cbc78bea7"
+            "hash": "603157810a81b0f33a0e9120d7676e891e8a3165ebb9c0394e1fcda72e6decbc"
         }
     },
     "homepage": "https://terra3.io/",
